@@ -1,0 +1,115 @@
+body {
+  font-family: "Roboto", "Verdana", "Tahoma", sans-serif;
+  color: #757575;
+}
+
+.logo {
+  color: #212121;
+  font-size: 26px;
+  line-height: 31px;
+  /* font-size: 24px; */
+  font-family: Raleway;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.accent {
+  color: #2196f3;
+}
+/* font-weight: 400; */
+.buttons-portfolio button {
+  cursor: pointer;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 0.6;
+  /* identical to box height, or 162% */
+  text-align: center;
+  /* width: 121px; */
+  /* list-style: none; */
+  background-color: #f5f4fa;
+  border-color: #f5f4fa;
+  /* border: 0; */
+}
+
+.portfolio-list {
+  list-style: none;
+}
+
+.adress-city-street {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 0.6;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+
+.portfolio-list h3 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  color: #212121;
+  letter-spacing: 0.06em;
+}
+
+.portfolio-list a {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+.header-portfolio-item {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 0.5;
+}
+
+nav ul {
+  list-style: none;
+}
+nav a {
+  color: #212121;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 0.8;
+  text-decoration: none;
+}
+
+adress a {
+  text-decoration: none;
+  color: #757575;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 0.8;
+}
+
+.link:hover {
+  color: #2196f3;
+}
+
+.buttons-portfolio {
+  list-style: none;
+}
+
+.buttons-portfolio button:hover {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+
+.buttons-portfolio button:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+}
