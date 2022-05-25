@@ -7,7 +7,6 @@ body {
   color: #212121;
   font-size: 26px;
   line-height: 31px;
-  /* font-size: 24px; */
   font-family: Raleway;
   text-decoration: none;
   font-weight: 700;
@@ -39,6 +38,60 @@ body {
   height: 50px;
   cursor: pointer;
 }
+
+.lorem-ipsum ul {
+  list-style: none;
+}
+
+.lorem-ipsum h3 {
+  list-style: none;
+  color: #212121;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+}
+
+.what-are-we-doing h2 {
+  color: #212121;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.16;
+}
+
+.what-are-we-doing ul {
+  list-style: none;
+}
+
+.our-team h2 {
+  color: #212121;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.16;
+}
+
+.our-team h3 {
+  color: #212121;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
+}
+
+.our-team ul {
+  list-style: none;
+}
+
+.our-team ul {
+  background-color: #f5f4fa;
+}
+
 address a {
   color: #ffffff;
 }
@@ -50,7 +103,7 @@ address a {
 .accent {
   color: #2196f3;
 }
-/* font-weight: 400; */
+
 .buttons-portfolio button {
   cursor: pointer;
   font-family: "Roboto";
@@ -58,13 +111,9 @@ address a {
   font-weight: 500;
   font-size: 16px;
   line-height: 0.6;
-  /* identical to box height, or 162% */
   text-align: center;
-  /* width: 121px; */
-  /* list-style: none; */
   background-color: #f5f4fa;
   border-color: #f5f4fa;
-  /* border: 0; */
 }
 
 .portfolio-list {
@@ -131,10 +180,6 @@ adress a {
 }
 
 .link:hover {
-  color: #2196f3;
-}
-
-.logo:hover {
   color: #2196f3;
 }
 
